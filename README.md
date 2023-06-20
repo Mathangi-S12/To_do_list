@@ -1,3 +1,11 @@
+# To-do List Webpage using React
+### The code for the above webpage is present in src folder of the repository. It includes all the JavaScript, HTML and CSS files.
+### Created a To-do list webpage using React, enabling the user to add, delete, search, and edit tasks. 
+### Created a dropdown menu to filter active and completed tasks.
+### Functional components and Hooks were used for state management. 
+### The code was written using Visual Studio Code IDE. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
